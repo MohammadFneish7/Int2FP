@@ -1,6 +1,6 @@
 # Int2FP
 
-Intelligent Forex Forecasting Project. An opensource project directed towards forecasting Forex movement using machine learning technologies 
+Intelligent Forex Forecasting Project, An opensource project directed for forecasting Forex using machine learning technologies.
 
 Based on the phrase you always hear whenever you start learning about Forex trading, that says "**History repeats itself**", I decided to start this Forex forecasting project based on machine learning. Why is that? simply, to start solving any problem using machine learning, three simple conditions **must** exist together:
 
