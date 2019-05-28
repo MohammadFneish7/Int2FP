@@ -111,4 +111,4 @@ This project supports both CPU/GPU processing, although it is not advised to use
 For the current time, results are not so promising, the model is still failing to predict the next `Close` as well as the future trend angle. Maybe the real problem is in the model, and maybe Forex data simply has no obvious pattern to be detected and learned by the model. Contributions are needed, so please do if you have the potential.
 
 # License
-This project is licensed under [GNU General Public License v3][https://github.com/MohammadFneish7/Int2FP/blob/master/LICENSE].
+This project is licensed under [GNU General Public License v3](https://github.com/MohammadFneish7/Int2FP/blob/master/LICENSE).
